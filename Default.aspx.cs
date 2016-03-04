@@ -11,7 +11,7 @@ namespace Debugging
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Console.Write("asdf");
+            //Console.Write("asdf");
         }
     }
 }
